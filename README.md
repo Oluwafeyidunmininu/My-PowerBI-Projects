@@ -15,7 +15,7 @@ Kaggle: Altera_Emp_Data.xlsx
 After importing the data set, adequate data cleaning was carried out and measures for reports was created using DAX.
 ![altera data set and measure](https://github.com/user-attachments/assets/69abfb1b-b162-4cf0-9aae-edc3c10b56ea)
 
-### The Dashboard
+### Dashboard
 ![Altera HR Dashboard](https://github.com/user-attachments/assets/d2d08023-4429-4bbd-a32d-807d0bd40285)
 
 ## Derivable Insights
