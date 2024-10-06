@@ -31,3 +31,34 @@ After importing the data set, adequate data cleaning was carried out and measure
  10.Education Level 
    
  
+# 1. Data Professional Survey
+## Introduction
+The dashboard serve as highlight of profesional survey
+## Aim
+To develop a Simple Data Professional Survey Dashboard that provides insightful report on thier details
+## Data Source
+Kaggle: Data Professional survey.xlsx
+## Visuals Showing  various Steps 
+### Data set preview
+![Data professional data set](https://github.com/user-attachments/assets/de53e9f3-2726-45a2-8b44-60d1c3482f47)
+
+
+### Data set and measures preview
+After importing the data set, adequate data cleaning was carried out and measures for reports was created using DAX.
+![Data Profesional  data set with measures](https://github.com/user-attachments/assets/f753a3ba-4ffd-4fca-9bc3-1d443c9212b2)
+
+
+### Dashboard
+![Data professional survey dashboard ](https://github.com/user-attachments/assets/44ebd41c-2f40-4cc4-8939-36ac4b0f6891)
+
+
+## Derivable Insights
+1. Average salary of a data professional
+2. The most prominent role of the survey takers
+3. Survey takers that transitioned into tech
+4. The average salary by role
+5. The Top 5 industry survey takers work in
+6. The most favorite programming language of survey takers
+7.  Ease of breaking into test of survey takers
+8.  Average salary by gender and country
+   
