@@ -2,13 +2,13 @@
 ## Overview
 This repository contains a collection of Power BI reports and dashboards for data analysis and visualization
 
-# 1. Altera HR Project
-## Introduction:
+## 1. Altera HR Project
+# Introduction:
 
-## Aim:
+# Aim:
 To develop a Simple HR Analytics Dashboard that provides insightful report on the workforce of the organization.
 # Data Source:
- Kaggle:
+ Kaggle: Altera_Emp_Data.xlsx
 # Derivable Insights:
 
   
