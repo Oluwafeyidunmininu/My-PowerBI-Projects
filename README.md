@@ -8,7 +8,7 @@ To develop a Simple HR Analytics Dashboard that provides insightful report on th
 ## Data Source
 Kaggle: Altera_Emp_Data.xlsx
 ## Visuals Showing  Various Steps 
-### Data set preview
+### Data set Preview
 ![Altera Data set Pics](https://github.com/user-attachments/assets/99aee68f-50f8-454a-9491-6a2dca0850a5)
 
 ### Data Set and Measures Preview
@@ -29,9 +29,10 @@ After importing the data set, adequate data cleaning was carried out and measure
  8. Awards and Recognition
  9. Employee Age Distribution
  10.Education Level 
+
    
  
-# @. Data Professional Survey
+# 2. Data Professional Survey
 ## Introduction
 The dashboard serve as highlight of profesional survey
 ## Aim
