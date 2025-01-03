@@ -1,4 +1,4 @@
-#  Altera HR Project
+#  Altera HR Analysis
 ## Introduction
 The dashboard serve as a decision-support tool highlighting key metrics and performance indicators
 ## Aim
